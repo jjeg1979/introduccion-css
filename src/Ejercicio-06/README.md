@@ -20,7 +20,7 @@ En este ejercicio, aplicamos estilos relacionados con la tipografía en CSS. Cam
     <p class="font-size">Este párrafo tiene un tamaño de fuente de 20px.</p>
     <p class="font-weight">Este párrafo tiene un grosor o negrita de 700.</p>
 </body>
-</htm
+</html>
 ```
 
 ### Contenido CSS (styles.css):
